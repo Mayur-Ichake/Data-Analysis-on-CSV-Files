@@ -14,7 +14,7 @@ To analyze and visualize sales data using Pandas and Matplotlib.
 
 -----
 
-🧰 Tools & Libraries
+🧰 Tools & Libraries           
 
 Python            
 Pandas                  
@@ -23,13 +23,17 @@ CSV File (sales_data_sample.csv)
 
 -----
 
-⚙️ How to Run the Project
+⚙️ How to Run the Project               
 
-pip install pandas
-pip install matplotlib
-python sales_data_Analysis.py
+pip install pandas                             
+pip install matplotlib                    
+python sales_data_Analysis.py                        
 
 -----
 
+Author
+
+Name: Mayur Santosh Ichake                       
+Email: mayurichake4@gmail.com                                  
 
 
