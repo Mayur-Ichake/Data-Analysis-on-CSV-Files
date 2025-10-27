@@ -3,12 +3,11 @@
 1.Load CSV using Pandas
 2.Use groupby(), sum(), plot()"""
 
-"""Steps : """
-
+# import libraries
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
+# Read CSV file~
 data = pd.read_csv("sales_data_sample.csv", encoding='latin1')
 print("Data loaded successfully!\n")
 
